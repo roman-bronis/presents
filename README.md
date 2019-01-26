@@ -4,7 +4,7 @@
 
 ```javascript
 { "person_name": [  
-    ["img_url", "description", "link", "price"],  
+    ["img_url", "description", "link", "price", "good/bad"],  
     ...  
   ]  
 }
