@@ -1,137 +1,115 @@
 {
-  "munces": [
-    [
-      "https://image.alza.cz/products/HRAif10173/HRAif10173.jpg?width=2000&height=2000",
-      "vláčiky s traťou",
-      "https://www.alza.sk/hracky/vlak-ceske-drahy-d5452366.htm",
-      "21.30",
-      "good"
-    ],
-    [
-      "https://www.alltoys.sk/sub/alltoys.sk/shop/product/resized/rappa-216631-vlak-zeleznicna-spolocnost-slovensko-13327.thumb_580x580.jpg.webp?15034",
-      "vláčiky s traťou",
-      "https://www.alltoys.sk/vlaky-a-vlacikove-drahy/rappa-216631-vlak-zeleznicna-spolocnost-slovensko/",
-      "25.99",
-      "good"
-    ],
-    [
-      "https://image.alza.cz/products/LO60304/LO60304.jpg?width=1000&height=1000",
-      "LEGO krizovatka",
-      "https://www.alza.sk/hracky/lego-city-60304-krizovatka-d6284033.htm",
-      "15.90",
-      "good"
-    ],
-    [
-      "https://image.alza.cz/products/LO60205/LO60205.jpg?width=1000&height=1000",
-      "LEGO kolajnice",
-      "https://www.alza.sk/hracky/lego-city-trains-60205-kolaje-d5456719.htm?o=37",
-      "15.90",
-      "good"
-    ],
-    [
-      "https://image.alza.cz/products/LO60238/LO60238.jpg?width=1000&height=1000",
-      "LEGO vyhybky",
-      "https://www.alza.sk/hracky/lego-city-trains-60238-vyhybky-d5456720.htm?o=41",
-      "16.90",
-      "good"
-    ],
-    [
-       "",
-       "Nočná lampička (so štipcom, aby sa dala pripevnit na čelo postele)",
-       "",
-       "",
-       "good"
-     ],
-    [
-        "",
-        "Lyziarska/korculiarska prilba (53?)",
-        "",
-        "",
-        "good"
-     ],
-    [
-      "",
-      "zupan",
-      "",
-      "",
-      "bad"
-    ],
-    [
-      "",
-      "LEGO vlakova stanica",
-      "",
-      "",
-      "bad"
-    ]
-  ],
-  "adka": [],
-  "roman": [],
-  "majka": [
-     [
-       "https://www.mall.sk/i/87221466/1000/1000",
-       "Požiarnička Penny s autom",
-       "https://www.mall.sk/detske-auta/simba-poziarnik-sam-hasicske-auto-venusa-2-0-s-figurkou",
-       "23.90",
-       "good"
-     ],
-     [
-       "",
-       "Malovátka pre bábiky",
-       "",
-       "",
-       "good"
-     ],
-     [
-       "",
-       "Princeznovský set (s korunkou)",
-       "",
-       "",
-       "good"
-     ],
-     [
-       "",
-       "Skrinka na oblečenie pre bábiky",
-       "",
-       "",
-       "good"
-     ],
-     [
-       "https://img01.ztat.net/article/spp-media-p1/09e3cbed91fa4881a919b0c8131dbbd6/0981dd2bfb344ae78c25b5a91d6653ef.jpg?imwidth=1800&filter=packshot",
-       "Biele šaty",
-       "",
-       "",
-       "good"
-     ],
-     [
-       "",
-       "Nočná lampička (so štipcom, aby sa dala pripevnit na čelo postele)",
-       "",
-       "",
-       "good"
-     ],
-     [
-        "",
-        "Lyziarska/korculiarska prilba (49?)",
-        "",
-        "",
-        "good"
-     ],
-     [
-        "",
-        "Požiarnícka prilba a výstroj",
-        "",
-        "",
-        "bad"
-     ],
-     [
-        "",
-        "zupan",
-        "",
-        "",
-        "bad"
-     ],
-  ],
-  "others": [
-     
-  ]
+"munces": [[
+    "https://image.alza.cz/products/HRAif10173/HRAif10173.jpg?width=2000&height=2000",
+    "vláčiky s traťou",
+    "https://www.alza.sk/hracky/vlak-ceske-drahy-d5452366.htm",
+    "21.30",
+    "good"
+],[
+    "https://www.alltoys.sk/sub/alltoys.sk/shop/product/resized/rappa-216631-vlak-zeleznicna-spolocnost-slovensko-13327.thumb_580x580.jpg.webp?15034",
+    "vláčiky s traťou",
+    "https://www.alltoys.sk/vlaky-a-vlacikove-drahy/rappa-216631-vlak-zeleznicna-spolocnost-slovensko/",
+    "25.99",
+    "good"
+],[
+    "https://image.alza.cz/products/LO60304/LO60304.jpg?width=1000&height=1000",
+    "LEGO krizovatka",
+    "https://www.alza.sk/hracky/lego-city-60304-krizovatka-d6284033.htm",
+    "15.90",
+    "good"
+],[
+    "https://image.alza.cz/products/LO60205/LO60205.jpg?width=1000&height=1000",
+    "LEGO kolajnice",
+    "https://www.alza.sk/hracky/lego-city-trains-60205-kolaje-d5456719.htm?o=37",
+    "15.90",
+    "good"
+],[
+    "https://image.alza.cz/products/LO60238/LO60238.jpg?width=1000&height=1000",
+    "LEGO vyhybky",
+    "https://www.alza.sk/hracky/lego-city-trains-60238-vyhybky-d5456720.htm?o=41",
+    "16.90",
+    "good"
+],[
+    "",
+    "Nočná lampička (so štipcom, aby sa dala pripevnit na čelo postele)",
+    "",
+    "",
+    "good"
+],[
+    "",
+    "Lyziarska/korculiarska prilba (53?)",
+    "",
+    "",
+    "good"
+],[
+    "",
+    "župan",
+    "",
+    "",
+    "bad"
+],[
+    "",
+    "LEGO vlakova stanica",
+    "",
+    "",
+    "bad"
+]],
+"adka": [],
+"roman": [],
+"majka": [[
+    "https://www.mall.sk/i/87221466/1000/1000",
+    "Požiarnička Penny s autom",
+    "https://www.mall.sk/detske-auta/simba-poziarnik-sam-hasicske-auto-venusa-2-0-s-figurkou",
+    "23.90",
+    "good"
+],[
+    "",
+    "Malovátka pre bábiky",
+    "",
+    "",
+    "good"
+],[
+    "",
+    "Princeznovský set (s korunkou)",
+    "",
+    "",
+    "good"
+],[
+    "",
+    "Skrinka na oblečenie pre bábiky",
+    "",
+    "",
+    "good"
+],[
+   "https://img01.ztat.net/article/spp-media-p1/09e3cbed91fa4881a919b0c8131dbbd6/0981dd2bfb344ae78c25b5a91d6653ef.jpg?imwidth=1800&filter=packshot",
+   "Biele šaty",
+   "",
+   "",
+   "good"
+],[
+   "",
+   "Nočná lampička (so štipcom, aby sa dala pripevnit na čelo postele)",
+   "",
+   "",
+   "good"
+],[
+    "",
+    "Lyziarska/korculiarska prilba (49?)",
+    "",
+    "",
+    "good"
+],[
+    "",
+    "Požiarnícka prilba a výstroj",
+    "",
+    "",
+    "bad"
+],[
+    "",
+    "zupan",
+    "",
+    "",
+    "bad"
+]],
+"others": []
 }
