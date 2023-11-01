@@ -15,6 +15,20 @@
       "good"
     ],
     [
+       "",
+       "Nočná lampička (so štipcom, aby sa dala pripevnit na čelo postele)",
+       "",
+       "",
+       "good"
+     ],
+    [
+        "",
+        "Lyziarska/korculiarska prilba (53?)",
+        "",
+        "",
+        "good"
+     ],
+    [
       "",
       "zupan",
       "",
@@ -29,29 +43,12 @@
       "bad"
     ]
   ],
-  "adka": [
-    [
-      "https://pix.bonprix.pl/imgc/0/0/1/8/3/5/3/4/4/5/_640/18353445/pleteny-pulover-bridlicovo-siva-svetlo-trstinova-strieborna.jpg",
-      "Sveter, veľkosť 36/38",
-      "https://www.bonprixshop.eu/style/pleteny-pulover-1188673162/?catalogueNumber=936006&return=ref",
-      "> 20 EUR",
-      "good"
-    ],
-    [
-      "https://images.obi.sk/product/CZ/415x415/506534_1.jpg",
-      "Kochlikové ruže",
-      "https://www.obi.sk/uslachtile-ruze/ruze-parade-cervena/p/5065347",
-      "",
-      "good"
-    ]
-  ],
-  "roman": [
-  
-  ],
+  "adka": [],
+  "roman": [],
   "majka": [
-    [
+     [
        "https://www.mall.sk/i/87221466/1000/1000",
-       "Požiarnička Penny",
+       "Požiarnička Penny s autom",
        "https://www.mall.sk/detske-auta/simba-poziarnik-sam-hasicske-auto-venusa-2-0-s-figurkou",
        "23.90",
        "good"
@@ -70,28 +67,29 @@
        "",
        "good"
      ],
-    [
-      "",
-      "Požiarnícka prilba a výstroj",
-      "",
-      "",
-      "bad"
-    ]
-  ],
-  "others": [
      [
-       "https://1.bonami.sk/images/products/1f/cc/1fccb43c04505ca49f8d983e2eae7ccc5567e007-1000x1000.jpeg",
-       "váza na kvety",
-       "",
-       "",
-       "good"
+        "",
+        "Požiarnícka prilba a výstroj",
+        "",
+        "",
+        "bad"
      ],
      [
-       "https://www.ikea.com/sk/sk/images/products/smaksinne-podnos-rozne-farby__0618355_PE688452_S4.JPG",
-       "tácky na dezerty",
-       "https://www.ikea.com/sk/sk/catalog/products/70399968/",
-       "",
-       "good"
+        "",
+        "zupan",
+        "",
+        "",
+        "bad"
+     ],
+     [
+        "",
+        "Lyziarska/korculiarska prilba (49?)",
+        "",
+        "",
+        "good"
      ]
+  ],
+  "others": [
+     
   ]
 }
