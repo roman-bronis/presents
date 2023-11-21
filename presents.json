@@ -12,18 +12,6 @@
     "25.99",
     "good"
 ],[
-    "https://image.alza.cz/products/LO60304/LO60304.jpg?width=1000&height=1000",
-    "LEGO križovatka",
-    "https://www.alza.sk/hracky/lego-city-60304-krizovatka-d6284033.htm",
-    "15.90",
-    "good"
-],[
-    "https://image.alza.cz/products/LO60205/LO60205.jpg?width=1000&height=1000",
-    "LEGO kolajnice",
-    "https://www.alza.sk/hracky/lego-city-trains-60205-kolaje-d5456719.htm?o=37",
-    "15.90",
-    "good"
-],[
     "https://image.alza.cz/products/LO60238/LO60238.jpg?width=1000&height=1000",
     "LEGO výhybky",
     "https://www.alza.sk/hracky/lego-city-trains-60238-vyhybky-d5456720.htm?o=41",
@@ -54,12 +42,24 @@
     "",
     "bad"
 ],[
-    "",
+    "https://www.mall.sk/i/82757015/1000/1000",
     "LEGO vlaková stanica",
     "",
     "",
     "bad"
-]],
+],[
+    "https://image.alza.cz/products/LO60304/LO60304.jpg?width=1000&height=1000",
+    "LEGO križovatka",
+    "https://www.alza.sk/hracky/lego-city-60304-krizovatka-d6284033.htm",
+    "15.90",
+    "bad"
+],[
+    "https://image.alza.cz/products/LO60205/LO60205.jpg?width=1000&height=1000",
+    "LEGO kolajnice",
+    "https://www.alza.sk/hracky/lego-city-trains-60205-kolaje-d5456719.htm?o=37",
+    "15.90",
+    "bad"
+],],
 "adka": [],
 "roman": [],
 "majka": [[
